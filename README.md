@@ -1,2 +1,2 @@
-# duckyet-nft
-Ducky ET NFT token contract.
+# Green Freak-nft
+Green Freak on Mars NFT token contract.
